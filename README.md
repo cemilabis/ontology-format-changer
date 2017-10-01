@@ -3,10 +3,10 @@ Converts ontology file from one format (xml, json, turtle, etc.) to another
 
 ## Arguments
 
-**i**: input file
-**if**: input file format
-**o**: output file
-**of**: output file format
+**i**: input file  
+**if**: input file format  
+**o**: output file  
+**of**: output file format  
 
 ## Example usage arguments
 
