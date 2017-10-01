@@ -1,5 +1,5 @@
 # ontology-format-changer
-Converts ontology file from one format (xml, json, turtle, etc.) to another
+Converts an ontology file from one format (xml, json, turtle, etc.) to another
 
 ## Arguments
 
